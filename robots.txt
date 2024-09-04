@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mirphysil.github.io/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/app/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/assets/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/css/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/includes/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/item/sitemap.html.gz
+Sitemap: https://mirphysil.github.io/src/sitemap.html.gz
